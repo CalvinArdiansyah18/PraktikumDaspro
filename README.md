@@ -1,3 +1,2 @@
-Ini adalah repository pertama saya
-
-ini fitur pertama
+fitur 1
+fitur 2
