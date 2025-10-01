@@ -5,6 +5,7 @@ yang membedakan hanya kapan penambahannya. Jika x++ menambahkan diakhir
 dan ++x menambahkan diawal.
 
 2. Berapa hasil dari int z = x ^ y; silakan dilakukan perhitungan secara manual!
+
 ![Gambar hasil](image/gambar1.png)
 
 **Pernyataan 2.2**
@@ -12,6 +13,7 @@ dan ++x menambahkan diawal.
 - Jika tidak dideklarasi maka akan error dan scanner tidak akan bisa digunakan.
 
 2. Jelaskan apa kegunaan potongan program dibawah ini!
+
 ![Gambar program](image/gambar5.png)
 - Program tersebut digunakan untuk menginputkan angka panjang dan lebar
 menggunakan util scanner.
@@ -24,8 +26,11 @@ output yang diharapkan.
 data int, tetapi jika menginputkan angka desimal maka akan terjadi error karena pada
 scanner masih menggunakan nextInt() sehingga harus diubah menjadi nextDouble().
 
-Error ![Gambar program](image/gambar2.png)
-No error ![Gambar program](image/gambar3.png)
+Error 
+![Gambar program](image/gambar2.png)
+
+No error 
+![Gambar program](image/gambar3.png)
 
 2. Jika pada program diatas dihitung dl jumlah bayar kemudian menghitung potongan, apakah program tetap bisa berjalan sesuai output yang diharapkan? Jelaskan!
 - Tetap bisa berjalan karena urutan perhitungan tidak mempengaruhi hasil output.
